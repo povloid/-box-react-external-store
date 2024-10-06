@@ -1,12 +1,13 @@
 {
   "name": "@k35/react-external-store",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "External Store for React",
   "author": "Pavel Kopychenko",
   "license": "MIT",
   "main": "dist/ExternalStore.js",
   "types": "dist/ExternalStore.d.ts",
-  "files": [
+    "files": [
+      "src/ExternalStore.ts",
       "dist/ExternalStore.d.ts",
       "dist/ExternalStore.js",
       "dist/ExternalStore.js.map"
